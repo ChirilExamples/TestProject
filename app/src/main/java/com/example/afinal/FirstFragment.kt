@@ -40,7 +40,7 @@ class FirstFragment : Fragment() {
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
-        startObserversMain(7.0)
+        startObserversMain(4.0)
 
 
         adapter = RecyclerAdapter(
