@@ -1,7 +1,8 @@
 # LloydsProject
- 
-1 Architecture overview 
 
-2 Libraries used,: one line description
+Project created in MVVM architecture, following the latest techniques.
 
-3 uploaded screenshot of app screenz
+Created using Dependency Injection (Dagger/Hilt), Coroutines, GLide (Images), encrypted Room local storage.
+
+Tested using Espresso, Jacoco as well as tested for memory leaks with LeakCanary.
+
