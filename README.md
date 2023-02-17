@@ -1,6 +1,6 @@
-# LloydsProject
+# TestProject
 
-Project created in MVVM architecture, following the latest techniques.
+Project created in MVVM architecture in XML/fragments, following the latest techniques.
 
 Created using Dependency Injection (Dagger/Hilt), Coroutines, Glide (Images), encrypted Room local storage.
 
